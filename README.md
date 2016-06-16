@@ -24,3 +24,5 @@ wsgen -verbose -keep -s src -d build/classes -cp build/classes ws.HelloWorldImpl
 -cp directory from where input classes to be taken
 -d directory where output classes to be generated
 -s source directory
+
+Links Reffered: http://www.java2blog.com/2013/03/jaxws-web-service-eclipse-tutorial.html
