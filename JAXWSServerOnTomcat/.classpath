@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_91">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/activation.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/FastInfoset.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/http.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jaxws-api.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jaxws-rt.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jaxws-tools.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jsr173_api.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jsr181-api.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jsr250-api.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resolver.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/saaj-api.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/saaj-impl.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/sjsxp.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/stax-ex.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/streambuffer.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
